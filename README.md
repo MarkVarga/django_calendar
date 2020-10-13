@@ -1,4 +1,4 @@
-# tokenlab_calendar
+# django_calendar
 
 ## How To Setup
 1. Go to project directory 'cd event_calendar'
